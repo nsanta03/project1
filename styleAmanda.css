@@ -1,0 +1,121 @@
+
+/* Body Default */
+body {font-family: 'Spartan', sans-serif;
+}
+
+/* The Navbar */
+.navbar-brand {color: white;
+    font-family: 'Bungee Shade';
+    font-weight: 600;
+    font-size: 30px;
+}
+
+.nav-link {color: white;
+}
+
+.navbar-toggler-icon {background-color: white;
+}
+
+.contact-button {background-color: white;
+    color: rgb(0, 40, 120);
+    font-weight: 700;
+    border-color: white;
+    transition: none;
+}
+
+/* Home Page Jumbotron */
+.subscribe-button {background-color: rgb(0, 40, 120);
+    border-color: white;
+    border-width: 2px;
+    margin-left: 15px;
+}
+
+.jumbo-h1 {padding-left: 15px;
+}
+
+.jumbo-lead {padding-left: 15px;
+}
+
+.jumbo-text {padding-left: 15px;
+}
+
+/* Contact Us Page*/
+form {margin-top: 70px;
+    margin-bottom: 70px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* About Us Page */
+.about-us-headline-container {padding-top: 50px;
+    text-align: center;
+}
+
+.engage-photo-container {text-align: center;
+    padding-top: 25px;
+}
+
+.engage-photo-container img {width: 250px;
+    height: auto;
+}
+
+.about-us-container {text-align: left;
+    padding-left: 75px;
+    padding-right: 75px;
+    padding-top: 50px;
+}
+
+/* Subscription Page*/
+.subscription-headline {margin-top: 25px;
+    color: rgb(0, 40, 120);
+    font-family: 'Crimson Text';
+    text-align: center;
+}
+
+.sub-tiers {margin-right: 10px;
+    margin-left: 10px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    outline-style: solid;
+    outline-color: rgb(0, 40, 120);
+}
+
+.fa-check {color: green;
+    padding-right: 4px;
+}
+
+h2 {text-align: center;
+    margin-top: 20px;
+}
+
+.tier-benefits {margin-top: 25px;
+    margin-bottom: 25px;
+    height: 175px;
+}
+
+.btn-buy-now {background-color: rgb(0, 40, 120);
+    border-color: white;
+    border-width: 2px;
+    color: white;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+/* The Footer */
+h6 {font-weight: 500;
+    text-align: left;
+    font-family: 'Merriweather', sans-serif;
+    line-height: 1.2;
+    font-size: 1rem;
+}
+
+.nav-link-two {font-weight: 700;
+    line-height: 1.2;
+    margin-right: 25px;
+    margin-left: 25px;
+}
+
+.container-footer img {width: 80px;
+    height: auto;
+    margin-left: 50px;
+}
